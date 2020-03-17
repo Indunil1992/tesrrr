@@ -1,0 +1,67 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "6fa4f0f7-b994-4264-aca6-8ad3ed967f75": {
+        "id": "6fa4f0f7-b994-4264-aca6-8ad3ed967f75",
+        "parent": null,
+        "name": "tesrrr.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "tesrrr.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": []
+        },
+        "triggers": []
+      }
+    },
+    "openFiles": [
+      "6fa4f0f7-b994-4264-aca6-8ad3ed967f75"
+    ],
+    "currentFileId": "6fa4f0f7-b994-4264-aca6-8ad3ed967f75",
+    "resources": {},
+    "customTemplate": {
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "tesrrr",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1584434329238
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "tesrrr",
+      "url": "https://github.com/Indunil1992/tesrrr"
+    }
+  }
+}
